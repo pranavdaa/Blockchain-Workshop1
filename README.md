@@ -1,4 +1,4 @@
-# Blockchain-Workshop1
+# Blockchain-TechBBSR
 [Link TO Etherum Faucets](https://faucet.ropsten.be/)
 
 pragma solidity 0.4.25;
